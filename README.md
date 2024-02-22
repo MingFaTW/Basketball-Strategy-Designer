@@ -6,4 +6,3 @@ As for now, this project is just a demo version. I am still learning how to code
 
 這個專案為軟體工程課程期末專案所開發，目前暫為demo版本，有空會進行更新。
 
-@ All copyright is for MingFaLee's personal use.
