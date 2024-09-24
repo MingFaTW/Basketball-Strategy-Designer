@@ -1,8 +1,40 @@
-# MingFaTW-Basketball_Strategy_Designer
+# Basketball Strategy Simulator
 
-Hello guys, this is my school software engineering project. I am developing from eclipse with JAVA.
-The main idea of this project is to develop a strategy designer for basketball players. 
-As for now, this project is just a demo version. I am still learning how to code Java ;).
+### Introduction
+
+This repository contains the **Basketball Strategy Simulator**, developed as part of a software engineering course project. The goal of this software is to create a strategic flowchart in **GIFA** format for basketball games, providing a clear plan for offensive and defensive strategies for both teams. This simulator can be expanded to include other sports based on user needs.
+
+### System Requirements
+
+- **Development Environment**: Eclipse IDE (JDK 17)
+- **Operating System**: Windows
+
+### Features
+
+- **Basketball Panel**: A visual representation of the court, with 10 players (5 for each team) and a basketball. Players and the ball can be dragged to any position on the court.
+- **Tool Bar**:
+    - New Project: Create a new project.
+    - Export Project: Export the flowchart as a GIFA file.
+    - Save/Load: Save or load the player and ball positions for easy continuation of the project.
+    - Full Screen Mode: Toggle full-screen view.
+- **Operational Panel**:
+    - Draw shapes: Draw lines, circles, arrows, and more on the basketball court.
+    - Eraser: Remove any added shapes or text.
+    - Text Box: Add text labels to different parts of the strategy.
+    - Color Picker: Choose colors for drawings and shapes.
+    - Undo/Redo: Navigate through previous actions.
+- **Multi-Page Flowcharts**: Easily create multi-page diagrams to plan different phases of the strategy.
+
+### Usage
+
+1. Run the project through **Eclipse IDE**.
+2. Use the **Basketball Panel** to position players and create strategies.
+3. Save or export your strategy in **GIFA format** for future reference or to share with the team.
+
+### Future Development
+
+- Plans to expand the simulator to support additional sports.
+- Further optimization and new features based on user feedback.
 
 這個專案為軟體工程課程期末專案所開發，目前暫為demo版本，有空會進行更新。
 
