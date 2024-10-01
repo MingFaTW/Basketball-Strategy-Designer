@@ -8,6 +8,8 @@
 
 This repository contains the **Basketball Strategy Simulator**, developed as part of a software engineering course project. The goal of this software is to create a strategic flowchart in **GIFA** format for basketball games, providing a clear plan for offensive and defensive strategies for both teams. This simulator can be expanded to include other sports based on user needs.
 
+<a href="https://github.com/MingFaTW/Basketball-Strategy-Designer/blob/main/src/outputGifa.gif/">Example GIFA file/a>
+
 ### System Requirements
 
 - **Development Environment**: Eclipse IDE (JDK 17)
